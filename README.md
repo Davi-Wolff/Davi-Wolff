@@ -19,7 +19,7 @@
 
 - 🎓 Bacharelado em **Ciência da Computação** pela **UNISUL** (4ª fase, período noturno | 2025 – 2029)
 - 💻 Estudando desenvolvimento **Full-Stack** e **APIs REST** com Java e JavaScript
-- 🌱 Aprofundando conhecimentos em **Spring Boot**, **Docker** e **Kubernetes**
+- 🌱 Aprofundando conhecimentos em **Spring Boot** e **Docker**
 - 🗣️ Inglês fluente — Certificação TOEFL (Listening C1, Structure B2, Reading B1)
 - 🎯 Buscando uma oportunidade de **estágio** para aplicar meus conhecimentos na prática
 
@@ -48,8 +48,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
 
 **Engenharia de Software**
