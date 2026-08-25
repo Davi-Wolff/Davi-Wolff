@@ -20,7 +20,7 @@
 - 🎓 Bacharelado em **Ciência da Computação** pela **UNISUL** (4ª fase, período noturno | 2025 – 2029)
 - 💻 Estudando desenvolvimento **Full-Stack** e **APIs REST** com Java e JavaScript
 - 🌱 Aprofundando conhecimentos em **Spring Boot** e **Docker**
-- 🗣️ Inglês fluente — Certificação TOEFL (Listening C1, Structure B2, Reading B1)
+- 🗣️ Inglês Avançado
 - 🎯 Buscando uma oportunidade de **estágio** para aplicar meus conhecimentos na prática
 
 ---
